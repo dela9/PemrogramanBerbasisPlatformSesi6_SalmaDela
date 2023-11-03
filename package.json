@@ -1,0 +1,17 @@
+{
+  "name": "deadline",
+  "version": "1.0.0",
+  "main":"index.js",
+  
+  "scripts": {
+    "run": "node deadline.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
